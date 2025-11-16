@@ -100,17 +100,16 @@ ZFQML12SSpO1GqrP2C3FBA/xwYGY-Tt
 
 https://archive.org/details/ai-2.0.-7z_20251102
 
-Buddhist Classics AI Translation Series Volume 7: Kagyu Dharma Collection Great Treasure Terma Jamyang Khyentse Complete Works 1.1 Edition.7z
+Buddhist Classics AI Translation Series Volume 7: Kagyu Dharma Collection Great Treasure Terma Jamyang Khyentse Complete Works 2.0 Edition.7z
 
-https://zenodo.org/records/17510195
+https://zenodo.org/records/17604925
 
-https://share.eu.internxt.com/d/sh/file/f22711a2-10e7-4468-9174-8eab0a085d3b/d7c6445c664b510a4340034012ea64a2903c0c201dff36171f9fb14a36913b7c
+https://share.eu.internxt.com/sh/file/4wP_dhkaTGOwMrRu-47YIA/Kpc3pWni
 
-https://secure.ue.internxt.com/d/sh/
-file/f22711a2-10e7-4468-9174-8eab0a085d3b/
-d7c6445c664b510a4340034012ea64a2903c0c201dff36171f9fb14a36913b7c
+https://share.eu.internxt.com/sh/file/
+4wP_dhkaTGOwMrRu-47YIA/Kpc3pWni
 
-https://archive.org/details/ai-1.1.-7z
+https://archive.org/details/ai-2.0.-7z_20251116
 
 Buddhist Classics AI Translation Series Volume 8: Sakya Dharma Collection Tsongkhapa Complete Works 1.0 Edition.7z
 
@@ -239,3 +238,4 @@ Buddhist Classics AI Translation Series
 Independent Research Collective
 
 https://github.com/Buddhist-Classics-AI-Translation-Series/Buddhist-translations
+
