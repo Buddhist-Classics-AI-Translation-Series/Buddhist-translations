@@ -21,6 +21,23 @@ As well as the open-source community platform for natural language processing an
 
 https://huggingface.co/ospx1u
 
+
+2025.11.23
+
+For volumes 1, 2, 3, 5, 6, 7, 8, 11, 12, etc., in the G2.0 translation editions produced from July to November 2025, approximately 1% of the text (in terms of weak quantity) suffered from entire paragraphs being omitted in translation. A dedicated program has been developed to address this issue, performing electronic collation and supplementary translation. So far, volumes 6–7 have been uploaded, with ongoing corrections being applied progressively.
+
+Scattered proofreading and corrections (0.n proportion) have been upgraded. Starting from 2025-11-22, the entire version group will no longer be replaced on the cloud drive (net disk). Updates will only be uploaded to:  
+https://huggingface.co/ospx1u for archiving.  
+
+The very latest versions may no longer appear in the permanent link table; they will only be available at  
+https://huggingface.co/ospx1u — please check there yourself.  
+Under normal circumstances, the frequently updated full table for volumes 1–12 is located at:  
+https://huggingface.co/datasets/ospx1u/buddhist-classics-vol1-12/tree/main
+
+This means that the permanent download links previously provided for the specific content of volumes 1–13 are no longer the latest or most accurate versions; they are now merely kept as a fallback reference. This is especially true after switching data repositories and entering the phase of simultaneous proofreading and dual-translation balancing — those old links have essentially become optional historical data traces. In practice, however, the differences are limited, so updates based on Internxt and retention of past data will still continue. To repeat once again: the latest data is all at  
+https://huggingface.co/ospx1u
+
+
 Buddhist Classics AI Translation Series Volume 1: Longchen Rabjam Complete Works 4.0 Edition.7z (Newly added a set of c3.7s model collection)
 
 https://zenodo.org/records/17503503
@@ -238,4 +255,5 @@ Buddhist Classics AI Translation Series
 Independent Research Collective
 
 https://github.com/Buddhist-Classics-AI-Translation-Series/Buddhist-translations
+
 
