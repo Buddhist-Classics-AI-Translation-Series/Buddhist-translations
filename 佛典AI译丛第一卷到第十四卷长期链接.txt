@@ -26,6 +26,20 @@ https://tinyurl.com/bcaitszenodo
 https://huggingface.co/ospx1u
 
 
+1.2.3.5.6.7.8.11.12等卷2025年7月-11月制作的g2.0翻译本中有约1%弱数量，整段脱译
+的情况，为这种情况做了专门的程序，进行了电子校勘和补译。到11.23上传到第6-7卷。
+零散校勘（0.n比例）升级，自20251122起不再更替整个版本群的网盘，只上传到
+https://huggingface.co/ospx1u 存档。  最新版本有可能不在长期链接表，只
+在 https://huggingface.co/ospx1u 请自行查询，一般情况1-12卷的频繁升级全表
+在 https://huggingface.co/datasets/ospx1u/buddhist-classics-vol1-12/tree/main
+
+这意味着1-13卷的具体内容的长期下载链接，已经不是最新和最准确的内容，
+只是聊备一格，特别是变更了数据仓库和转入校勘和平衡双译本时期以后，
+已经是可有可无的数据陈迹，但实际差别有限的，所以仍然会有基于internxt的更新，
+和过去数据的存留，再次重复，最新数据都在 https://huggingface.co/ospx1u
+
+
+
 佛典AI译丛第一卷：龙钦绕绛全集4.0版.7z（新增一套c3.7s模型文集）
 
 https://zenodo.org/records/17503503
@@ -291,6 +305,7 @@ Buddhist Classics AI Translation Series
 Independent Research Collective
 
 https://github.com/Buddhist-Classics-AI-Translation-Series/Buddhist-translations
+
 
 
 
