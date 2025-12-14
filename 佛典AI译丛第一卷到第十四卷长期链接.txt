@@ -121,11 +121,11 @@ https://zenodo.org/records/17923206
 
 
 
-佛典AI译丛第十二卷：康巴、安多诸宗法汇1.0版.7z
+佛典AI译丛第十二卷：康巴、安多诸宗法汇1.2版.7z
 
 https://zenodo.org/records/17930578
 
-佛典AI译丛第十二卷：康巴、安多诸宗法汇近代篇1.0版.7z（暂不公开）
+佛典AI译丛第十二卷：康巴、安多诸宗法汇近代篇1.2版.7z（暂不公开）
 
 https://zenodo.org/records/17930578
 
@@ -188,3 +188,4 @@ https://archive.org/details/buddhist-classics-ai-translation-series-vol.-14-pali
 https://archive.org/details/
 buddhist-classics-ai-translation-series
 -vol.-14-pali-canon-in-tibetan-english-ja
+
