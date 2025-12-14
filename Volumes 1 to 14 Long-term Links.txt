@@ -1,184 +1,117 @@
-Buddhist Classics AI Translation Series Volumes 1 to 14 Long-term Links
+ Long-Term Links for the *Buddhist Classics AI Translation Series*, Volumes 1–14
 
-Buddhist Classics AI Translation Series (Ancient Texts Multilingual Mutual Translation Corpus Dataset) Update Publication Addresses:
-https://tinyurl.com/bcaits
-http://www.xinwenwuzhe.com/
-https://github.com/Buddhist-Classics-AI-Translation-Series/Buddhist-translations
+**The Buddhist Classics AI Translation Series** (Multilingual Ancient Texts Translation Corpus Dataset) is usually updated and published at the following addresses:  
+https://tinyurl.com/bcaits  
+http://www.xinwenwuzhe.com/  
+https://github.com/Buddhist-Classics-AI-Translation-Series/Buddhist-translations  
 
-1. Each Internxt link is repeated twice: once as a complete single address, and the second time split into multiple segments with hard line breaks. If the complete single address is not visible or cannot connect, please remove the hard line breaks from the multi-segment address and join them together. Starting from Volume 2 version 3.0, the addresses are in a single line, likely due to an upgrade by the cloud storage provider; current old addresses remain valid.
+Starting from **July 2024**, releases are mainly distributed via the **Internxt cloud drive**.  
+Upgrades for older versions of this cloud stopped on **2025.11.27**.  
+Thank you — the old links published in the past are gradually being removed from the list.  
+The actual storage addresses for **.7z files** remain valid, while **.zip files** have gradually expired.  
 
-2. Due to version adjustments making the files larger and limited cloud storage capacity, after September 7, 2025, ZIP compressed versions are no longer provided. Readers must install 7z compression software themselves.
+From **November 1, 2025**, long-term backups have been archived at the **Internet Archive (archive.org)**:  
+https://tinyurl.com/bcaitsarchive  
 
-3. Starting from November 1, 2025, backups have been added to the Internet Archive's long-term addresses.
+They are also being successively uploaded to **zenodo.org**, the academic repository of the European Space Agency, for scholarly referencing:  
+https://tinyurl.com/bcaitszenodo  
 
-https://tinyurl.com/bcaitsarchive
+And to the **open-source NLP and machine learning community platform Hugging Face**:  
+https://huggingface.co/ospx1u  
 
-And they are being gradually uploaded to https://zenodo.org, the European Space Agency's academic repository, for easy academic retrieval.
+In volumes **1, 2, 3, 5, 6, 7, 8, 11, and 12**, about **1%** of the content in the **g2.0 translations (produced July–November 2025)** contains segment-level omissions.  
+A special program was developed for **digital proofreading and supplementary translation** to address these cases.  
+Minor proofreading updates (at a 0.n ratio) have also been implemented.  
 
-https://tinyurl.com/bcaitszenodo
+Since **2025.11.22**, updates to the Internxt-based version group have ceased.  
+Future versions are prioritized for archiving at **huggingface.co/ospx1u**.  
 
-As well as the open-source community platform for natural language processing and machine learning, Hugging Face.
+The latest versions may not appear in the long-term link list.  
+Please check directly at:  
+https://huggingface.co/ospx1u  
 
-https://huggingface.co/ospx1u
+In general, the frequently updated list for Volumes 1–12 can be found at:  
+https://huggingface.co/datasets/ospx1u/buddhist-classics-vol1-12/tree/main  
 
+They are also being uploaded to:  
+https://tinyurl.com/bcaitszenodo  
+https://zenodo.org/communities/bcaits/records?q=&l=list&p=1&s=10&sort=newest  
 
-2025.11.23
+This means that for **Volumes 1–13**, the long-term download links previously released via Internxt are **no longer the latest or most accurate versions**.  
+They remain as backups only.  
+Since the project transitioned to new data repositories and entered the **proofreading and balanced bilingual** period, older data are now legacy records, though the actual differences are limited.  
+Therefore, some Internxt-based versions will still be updated and retained for convenience.  
 
-For volumes 1, 2, 3, 5, 6, 7, 8, 11, 12, etc., in the G2.0 translation editions produced from July to November 2025, approximately 1% of the text (in terms of weak quantity) suffered from entire paragraphs being omitted in translation. A dedicated program has been developed to address this issue, performing electronic collation and supplementary translation. So far, volumes 6–7 have been uploaded, with ongoing corrections being applied progressively.
+To repeat: **the latest data versions are all hosted at**  
+https://huggingface.co/ospx1u  
 
-Scattered proofreading and corrections (0.n proportion) have been upgraded. Starting from 2025-11-22, the entire version group will no longer be replaced on the cloud drive (net disk). Updates will only be uploaded to:  
-https://huggingface.co/ospx1u for archiving.  
+---
 
-The very latest versions may no longer appear in the permanent link table; they will only be available at  
-https://huggingface.co/ospx1u — please check there yourself.  
-Under normal circumstances, the frequently updated full table for volumes 1–12 is located at:  
-https://huggingface.co/datasets/ospx1u/buddhist-classics-vol1-12/tree/main
+### Download Links
 
-This means that the permanent download links previously provided for the specific content of volumes 1–13 are no longer the latest or most accurate versions; they are now merely kept as a fallback reference. This is especially true after switching data repositories and entering the phase of simultaneous proofreading and dual-translation balancing — those old links have essentially become optional historical data traces. In practice, however, the differences are limited, so updates based on Internxt and retention of past data will still continue. To repeat once again: the latest data is all at  
-https://huggingface.co/ospx1u
+**Volume 1 — Buddhist Classics AI Translation Series:** *Longchen Nyingtik Complete Works*, Version 4.1 (.7z)  
+https://zenodo.org/records/17725757  
 
+**Volume 2 — Buddhist Classics AI Translation Series:** *Nyingma Ten-Thousand Tantra Continuation*, Version 4.1 (.7z)  
+https://zenodo.org/records/17734051  
 
-Buddhist Classics AI Translation Series Volume 1: Longchen Rabjam Complete Works 4.0 Edition.7z (Newly added a set of c3.7s model collection)
+**Volume 3 — Buddhist Classics AI Translation Series:** *Kangyur*, Version 2.1 (.7z)  
+https://zenodo.org/records/17737455  
 
-https://zenodo.org/records/17503503
+**Volume 4 — Buddhist Classics AI Translation Series:** *Pali Canon*, Version 1.12 (.7z)  
+https://zenodo.org/records/17507802  
 
-https://secure.internxt.com/sh/file/miD03cZATHuJZhZgIURxMg/tmjK4J4V
+**Volume 5 — Buddhist Classics AI Translation Series:** *Tengyur*, Version 2.1 (.7z)  
+https://zenodo.org/records/17762001  
 
-https://secure.internxt.com/sh/file/
-miD03cZATHuJZhZgIURxMg/tmjK4J4V
+**Volume 5 — Buddhist Classics AI Translation Series (Supplement):** *Tengyur Appendix — Mahamudra Songs Collection (AI Songs)* (.7z)  
+https://zenodo.org/records/17507881  
 
-https://archive.org/details/httpsgithub.combuddhist-classics-ai-translation-seriesbuddhist-translations
+**Volume 6 — Buddhist Classics AI Translation Series:** *Jonang Dharma Collection*, Version 2.1 (.7z)  
+https://zenodo.org/records/17772241  
 
-Buddhist Classics AI Translation Series Volume 2: Nyingma Ten Thousand Tantras 4.0 Edition.7z (Both the 47-volume edition and the Dergé edition now include c3.7s and g2.0 versions)
+**Volume 7 — Buddhist Classics AI Translation Series:** *Kagyu Dharma Collection — Great Terma Treasury — Complete Works of Kyumei Peng*, Version 2.1 (.7z)  
+https://zenodo.org/records/17772415  
 
-https://zenodo.org/records/17503850
+**Volume 8 — Buddhist Classics AI Translation Series:** *Sakya Dharma Collection — Complete Works of Tsongkhapa*, Version 1.0 (.7z)  
+https://zenodo.org/records/17513437  
 
-https://secure.internxt.com/sh/file/_AoWJRBjQOGc_qXVsITE0A/4-On8tcg
+**Volume 8 — Buddhist Classics AI Translation Series (Supplement):** *Sakya Dharma Collection 1.0 — Additional Work: Collected Writings of Guoranba* (.7z)  
+*(to be updated to Version 2.0)*  
+https://secure.eu.internxt.com/d/sh/file/604da7d1-76cd-4e36-9431-23b51a287753/011f2fbd0a7a2854cfd5e8c0d6e7f9fc942cd7ad267d60369a6463504bb87b5c  
 
-https://secure.internxt.com/sh/file/
-_AoWJRBjQOGc_qXVsITE0A/4-On8tcg
+https://secure.eu.internxt.com/d/sh/file/  
+604da7d1-76cd-4e36-9431-23b51a287753/  
+011f2fbd0a7a2854cfd5e8c0d6e7f9fc942cd7ad267d60369a6463504bb87b5c  
 
-https://archive.org/details/httpsgithub.combuddhist-classics-ai-translation-seriesbuddhist-translations_202511
+https://archive.org/details/ai-1.0.-7z  
 
-Buddhist Classics AI Translation Series Volume 3: Kangyur 2.0 Edition.7z (Newly added a set of g2.0 model modern Dergé edition Kangyur Chinese-English translation)
+**Volume 9 — Buddhist Classics AI Translation Series:** *Sanskrit Dharma Collection*, Version 1.0 (.7z) *(not publicly released)*  
 
-https://zenodo.org/records/17507712
+**Volume 10 — Buddhist Classics AI Translation Series:** *Ancient Chinese Canon with Modern Chinese and English Translation*, Version 2.0  
+*(includes updates and additions from the Wanxuzang and Jiaxing Canon)*  
+https://zenodo.org/records/17513923  
 
-https://share.eu.internxt.com/sh/file/dVj20ds0StmxueQmNOePOQ/-gt-JDJm
+https://secure.eu.internxt.com/sh/file/arZzntY9RW6Qab3GqbvpNw/75mL4E14  
 
-https://share.eu.internxt.com/sh/file/
-dVj20ds0StmxueQmNOePOQ/-gt-JDJm
+https://secure.eu.internxt.com/sh/file/  
+arZzntY9RW6Qab3GqbvpNw/75mL4E14  
 
-https://archive.org/details/ai-2.0.-7z
+https://archive.org/details/ai-2.0.-7z_20251102_1345  
 
-Buddhist Classics AI Translation Series Volume 4: Pāli Canon 1.12 Edition.7z
+**Volume 11 — Buddhist Classics AI Translation Series:** *Nyingma Kama*, Version 2.5 (.7z) *(not publicly released)*  
 
-https://zenodo.org/records/17507802
+**Volume 11 — Buddhist Classics AI Translation Series:** *Nyingma Kama*, Version 2.5 (.7z) *(without Tibetan text)*  
+https://zenodo.org/records/17923206
 
-https://secure.internxt.com/d/sh/file/e5459f3a-60f3-412b-8ad5-e5a9f5aebf37/8acf463de1c04f90ab8fa755df85fa9bf6ac5d94a282f21bfa1cf8dfc1e33d95
+**Volume 11 (Supplement) — Buddhist Classics AI Translation Series:** *Nyingma Kama: Selected Nyingma Commentaries*, Version 2.5 (.7z)*  
 
-https://share.eu.internxt.com/d/sh/file/
-b08a2d65-4710-41ef-9175-7cafb2ea2e2e/
-133ffa48f8684691e6d80bd3a1120bcd69f5e4b93323ddc6167016ebf991f126
+https://zenodo.org/records/17923206
 
-https://archive.org/details/ai-1.12.-7z
 
-Buddhist Classics AI Translation Series Volume 5: Tengyur 2.0 Edition.7z (Newly added a set of g2.0 model Chinese-English translation)
+Buddhist Classics AI Translation Series Volume 12: Kham and Amdo Various Sects Dharma Collection 1.2 Edition.7z
 
-https://zenodo.org/records/17507881
-
-https://secure.internxt.com/sh/file/uarsWC2aQuubuZu1gwUOCw/pvPqbHwU
-
-https://secure.internxt.com/sh/file/
-uarsWC2aQuubuZu1gwUOCw/pvPqbHwU
-
-https://archive.org/details/ai-2.0.-7z_202511
-
-Buddhist Classics AI Translation Series Volume 5: Tengyur Extra: Mahāmudrā Doctrinal Song Collection AI Songs.7z
-
-https://zenodo.org/records/17507881
-
-https://secure.ue.internxt.com/d/sh/file/554dbae2-a8ba-4537-b227-7b431bd0823b/10eeb2ad25a1a734e8469165753ec2bbff50154863de24a7f2d67cc39427a0c5
-
-https://share.eu.internxt.com/d/sh/file/
-554dbae2-a8ba-4537-b227-7b431bd0823b/
-10eeb2ad25a1a734e8469165753ec2bbff50154863de24a7f2d67cc39427a0c5
-
-https://archive.org/details/ai-ai.-7z
-
-Buddhist Classics AI Translation Series Volume 6: Jonang Dharma Collection 2.0 Edition.7z (Symmetric c3.7-g2.0 versions created for all existing editions, with several additional versions added)
-
-https://zenodo.org/records/17508255
-
-https://secure.internxt.com/sh/file/ZFQML12SSpO1GqrP2C3FBA/xwYGY-Tt
-
-https://secure.internxt.com/sh/file/
-ZFQML12SSpO1GqrP2C3FBA/xwYGY-Tt
-
-https://archive.org/details/ai-2.0.-7z_20251102
-
-Buddhist Classics AI Translation Series Volume 7: Kagyu Dharma Collection Great Treasure Terma Jamyang Khyentse Complete Works 2.0 Edition.7z
-
-https://zenodo.org/records/17604925
-
-https://share.eu.internxt.com/sh/file/4wP_dhkaTGOwMrRu-47YIA/Kpc3pWni
-
-https://share.eu.internxt.com/sh/file/
-4wP_dhkaTGOwMrRu-47YIA/Kpc3pWni
-
-https://archive.org/details/ai-2.0.-7z_20251116
-
-Buddhist Classics AI Translation Series Volume 8: Sakya Dharma Collection Tsongkhapa Complete Works 1.0 Edition.7z
-
-https://zenodo.org/records/17513437
-
-https://secure.eu.internxt.com/d/sh/file/604da7d1-76cd-4e36-9431-23b51a287753/011f2fbd0a7a2854cfd5e8c0d6e7f9fc942cd7ad267d60369a6463504bb87b5c
-
-https://secure.eu.internxt.com/d/sh/file/
-604da7d1-76cd-4e36-9431-23b51a287753/
-011f2fbd0a7a2854cfd5e8c0d6e7f9fc942cd7ad267d60369a6463504bb87b5c
-
-https://archive.org/details/ai-1.0.-7z
-
-Buddhist Classics AI Translation Series Volume 10: Modern Chinese and English Translations of the Classical Chinese Great Canon 2.0 Edition (Updated with additions to the Wan Xu Zang and Jiaxing Zang sections)
-
-https://zenodo.org/records/17513923
-
-https://secure.eu.internxt.com/sh/file/arZzntY9RW6Qab3GqbvpNw/75mL4E14
-
-https://secure.eu.internxt.com/sh/file/
-arZzntY9RW6Qab3GqbvpNw/75mL4E14
-
-https://archive.org/details/ai-2.0.-7z_20251102_1345
-
-Buddhist Classics AI Translation Series Volume 11: Nyingma Kagyu 2.3 Edition.7z (No Tibetan edition) (Newly added a set of c3.7s model, and revised appendix)
-
-https://zenodo.org/records/17514660
-
-https://share.eu.internxt.com/sh/file/kO6IKVC8T9STSrlCF2dqUg/lP17X2pe
-
-https://share.eu.internxt.com/sh/file/
-kO6IKVC8T9STSrlCF2dqUg/lP17X2pe
-
-https://archive.org/details/ai-2.3.-7z
-
-Buddhist Classics AI Translation Series Volume 11: Nyingma Kagyu Extra: Selected Nyingma Explanatory Treatises 2.1 Edition.7z
-
-https://share.eu.internxt.com/sh/file/IB7e2AafQVOQaCOiLfs5FQ/RpKrNz4m
-
-https://share.eu.internxt.com/sh/file/
-IB7e2AafQVOQaCOiLfs5FQ/RpKrNz4m
-
-Buddhist Classics AI Translation Series Volume 12: Kham and Amdo Various Sects Dharma Collection 1.0 Edition.7z
-https://zenodo.org/records/17516020
-
-https://share.eu.internxt.com/d/sh/file/c3e9266d-708c-43a7-843e-0e1d637925a5/f1b717a527cfc84c934bdf32b5807bf5b917fb8f8c33aeabf150e3404baaa596
-
-https://share.eu.internxt.com/d/sh/file/
-c3e9266d-708c-43a7-843e-0e1d637925a5/
-f1b717a527cfc84c934bdf32b5807bf5b917fb8f8c33aeabf150e3404baaa596
-
-https://archive.org/details/ai-1.0.-7z_202511
+https://zenodo.org/records/17930578
 
 Buddhist Classics AI Translation Series Volume 13: Buddhist Classics AI Translation Series English Translation Collection 1.0 Edition   English Translation Collection of Buddhist Classics AI Series Version 1.0
 
@@ -237,23 +170,11 @@ https://share.ue.internxt.com/sh/file/6knwOn44RIm8ROuDMAWm7A/BNeazu89
 https://archive.org/details/buddhist-classics-ai-translation-series-vol.-14-pali-canon-in-tibetan-english-ja
 
 
-临时网盘（自20251106起）
 
-15天
-
-https://send.internxt.com/d/6EbG-FaFSPWt1cSJH0f4DQ/W4PGVaf7
-
-7天
-https://www.sendspace.com/file/cuubh8
-
-30天
-
-https://ufile.io/4wtvr85y
 
 Buddhist Classics AI Translation Series
 
 Independent Research Collective
 
 https://github.com/Buddhist-Classics-AI-Translation-Series/Buddhist-translations
-
 
