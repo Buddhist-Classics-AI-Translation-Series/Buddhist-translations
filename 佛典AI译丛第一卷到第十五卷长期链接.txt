@@ -1,4 +1,4 @@
-佛典AI译丛第一卷到第十四卷长期链接
+佛典AI译丛第一卷到第十五卷长期链接
 
 佛典AI译丛（古籍多语种互译语料库数据集）更新通常刊登地址：
 https://tinyurl.com/bcaits
@@ -189,3 +189,10 @@ https://archive.org/details/
 buddhist-classics-ai-translation-series
 -vol.-14-pali-canon-in-tibetan-english-ja
 
+
+佛典AI译丛第十五卷 藏巴利日韩译汉文大藏经三藏原典1.0版
+
+Buddhist Classics AI Translation Series Vol.15：Chinese Tripiṭaka in Tibetan, Pāli, Japanese, Korean Version 1.0
+
+
+https://zenodo.org/records/18037184
