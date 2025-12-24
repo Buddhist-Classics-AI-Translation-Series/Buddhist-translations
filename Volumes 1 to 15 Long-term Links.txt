@@ -1,4 +1,4 @@
- Long-Term Links for the *Buddhist Classics AI Translation Series*, Volumes 1–14
+ Long-Term Links for the *Buddhist Classics AI Translation Series*, Volumes 1–15
 
 **The Buddhist Classics AI Translation Series** (Multilingual Ancient Texts Translation Corpus Dataset) is usually updated and published at the following addresses:  
 https://tinyurl.com/bcaits  
@@ -170,11 +170,15 @@ https://share.ue.internxt.com/sh/file/6knwOn44RIm8ROuDMAWm7A/BNeazu89
 https://archive.org/details/buddhist-classics-ai-translation-series-vol.-14-pali-canon-in-tibetan-english-ja
 
 
+Buddhist Classics AI Translation Series Vol.15：Chinese Tripiṭaka in Tibetan, Pāli, Japanese, Korean Version 1.0
 
+
+https://zenodo.org/records/18037184
 
 Buddhist Classics AI Translation Series
 
 Independent Research Collective
 
 https://github.com/Buddhist-Classics-AI-Translation-Series/Buddhist-translations
+
 
