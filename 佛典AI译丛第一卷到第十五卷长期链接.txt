@@ -73,20 +73,10 @@ https://zenodo.org/records/17772241
 https://zenodo.org/records/17772415
 
 
-佛典AI译丛第八卷：萨迦法汇 宗喀巴全集 1.0版.7z
-佛典AI译丛第八卷：萨迦法汇 1.0版 外一篇 果然巴文集.7z   即将更行成2.0版
-
-https://zenodo.org/records/17513437
-
-https://secure.eu.internxt.com/d/sh/file/604da7d1-76cd-4e36-9431-23b51a287753/011f2fbd0a7a2854cfd5e8c0d6e7f9fc942cd7ad267d60369a6463504bb87b5c
-
-https://secure.eu.internxt.com/d/sh/file/
-604da7d1-76cd-4e36-9431-23b51a287753/
-011f2fbd0a7a2854cfd5e8c0d6e7f9fc942cd7ad267d60369a6463504bb87b5c
+佛典AI译丛第八卷：萨迦法汇 宗喀巴全集2.1版
 
 
-https://archive.org/details/ai-1.0.-7z
-
+https://zenodo.org/records/18136340
 
 
 佛典AI译丛第九卷：梵文法汇1.0版.7z（暂不公开）
@@ -196,3 +186,4 @@ Buddhist Classics AI Translation Series Vol.15：Chinese Tripiṭaka in Tibetan,
 
 
 https://zenodo.org/records/18037184
+
