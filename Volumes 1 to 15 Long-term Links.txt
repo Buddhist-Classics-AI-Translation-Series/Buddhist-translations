@@ -73,18 +73,9 @@ https://zenodo.org/records/17772241
 **Volume 7 — Buddhist Classics AI Translation Series:** *Kagyu Dharma Collection — Great Terma Treasury — Complete Works of Kyumei Peng*, Version 2.1 (.7z)  
 https://zenodo.org/records/17772415  
 
-**Volume 8 — Buddhist Classics AI Translation Series:** *Sakya Dharma Collection — Complete Works of Tsongkhapa*, Version 1.0 (.7z)  
-https://zenodo.org/records/17513437  
+**Volume 8 — Buddhist Classics AI Translation Series:** *Sakya Dharma Collection — Complete Works of Tsongkhapa*, Version 2.0 (.7z)  
 
-**Volume 8 — Buddhist Classics AI Translation Series (Supplement):** *Sakya Dharma Collection 1.0 — Additional Work: Collected Writings of Guoranba* (.7z)  
-*(to be updated to Version 2.0)*  
-https://secure.eu.internxt.com/d/sh/file/604da7d1-76cd-4e36-9431-23b51a287753/011f2fbd0a7a2854cfd5e8c0d6e7f9fc942cd7ad267d60369a6463504bb87b5c  
-
-https://secure.eu.internxt.com/d/sh/file/  
-604da7d1-76cd-4e36-9431-23b51a287753/  
-011f2fbd0a7a2854cfd5e8c0d6e7f9fc942cd7ad267d60369a6463504bb87b5c  
-
-https://archive.org/details/ai-1.0.-7z  
+https://zenodo.org/records/18136340
 
 **Volume 9 — Buddhist Classics AI Translation Series:** *Sanskrit Dharma Collection*, Version 1.0 (.7z) *(not publicly released)*  
 
@@ -180,5 +171,6 @@ Buddhist Classics AI Translation Series
 Independent Research Collective
 
 https://github.com/Buddhist-Classics-AI-Translation-Series/Buddhist-translations
+
 
 
