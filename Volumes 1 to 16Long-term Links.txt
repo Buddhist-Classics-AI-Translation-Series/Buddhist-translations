@@ -1,4 +1,4 @@
- Long-Term Links for the *Buddhist Classics AI Translation Series*, Volumes 1–15
+ Long-Term Links for the *Buddhist Classics AI Translation Series*, Volumes 1–16
 
 **The Buddhist Classics AI Translation Series** (Multilingual Ancient Texts Translation Corpus Dataset) is usually updated and published at the following addresses:  
 https://tinyurl.com/bcaits  
@@ -100,9 +100,15 @@ https://zenodo.org/records/17923206
 https://zenodo.org/records/17923206
 
 
-Buddhist Classics AI Translation Series Volume 12: Kham and Amdo Various Sects Dharma Collection 1.2 Edition.7z
+Buddhist Classics AI Translation Series Volume 12: Kham and Amdo Various Sects Dharma Collection 2.0 Edition.7z
 
-https://zenodo.org/records/17930578
+https://zenodo.org/records/18378535
+
+
+Buddhist Classics AI Translation Series Volume 12: Collected Dharma Teachings from Kham and Amdo Regions, Modern Section, Version 2.0 (not publicly released)
+
+https://zenodo.org/records/18378535
+
 
 Buddhist Classics AI Translation Series Volume 13: Buddhist Classics AI Translation Series English Translation Collection 1.0 Edition   English Translation Collection of Buddhist Classics AI Series Version 1.0
 
@@ -178,6 +184,7 @@ Buddhist Classics AI Translation Series
 Independent Research Collective
 
 https://github.com/Buddhist-Classics-AI-Translation-Series/Buddhist-translations
+
 
 
 
