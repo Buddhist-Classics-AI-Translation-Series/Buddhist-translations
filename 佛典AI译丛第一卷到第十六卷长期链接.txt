@@ -1,4 +1,4 @@
-佛典AI译丛第一卷到第十五卷长期链接
+佛典AI译丛第一卷到第十六卷长期链接
 
 佛典AI译丛（古籍多语种互译语料库数据集）更新通常刊登地址：
 https://tinyurl.com/bcaits
@@ -111,14 +111,12 @@ https://zenodo.org/records/17923206
 
 
 
-佛典AI译丛第十二卷：康巴、安多诸宗法汇1.2版.7z
+佛典AI译丛第十二卷：康巴、安多诸宗法汇2.0版.7z
+佛典AI译丛第十二卷：康巴、安多诸宗法汇近代篇2.0版.7z（暂不公开）
 
-https://zenodo.org/records/17930578
+https://zenodo.org/records/18378535
 
-佛典AI译丛第十二卷：康巴、安多诸宗法汇近代篇1.2版.7z（暂不公开）
-
-https://zenodo.org/records/17930578
-
+https://huggingface.co/datasets/ospx1u/buddhist-classics-vol1-12
 
 
 佛典AI译丛第十三卷:佛典AI译丛英文译本合集1.0版   English Translation Collection of Buddhist Classics AI Series Version 1.0
@@ -193,3 +191,4 @@ Buddhist Classics AI Translation Series Vol.16：Kangyur and Tengyur Exoteric Sc
 
 
 https://zenodo.org/records/18344675
+
