@@ -130,17 +130,6 @@ https://huggingface.co/datasets/ospx1u/buddhist-classics-vol13-english/tree/main
 
 
 
-佛典AI译丛第十三卷：English Translation Collection of Buddhist Classics AI Series Version 1.0 part3.7z
-
-https://secure.eu.internxt.com/sh/file/Fbef1T1cQ4W8GSHFHyUOzw/fvhUYnQe
-
-https://secure.eu.internxt.com/sh/file/
-Fbef1T1cQ4W8GSHFHyUOzw/fvhUYnQe
-
-
-https://archive.org/details/ai-english-translation-collection-of-buddhist-classics-ai-series-version-1.0-part-3.7z
-
-
 佛典AI译丛第十四卷：藏英日韩译巴利文大藏经1.0版
 
 https://zenodo.org/records/17532220
@@ -172,5 +161,6 @@ Buddhist Classics AI Translation Series Vol.16：Kangyur and Tengyur Exoteric Sc
 
 
 https://zenodo.org/records/18344675
+
 
 
