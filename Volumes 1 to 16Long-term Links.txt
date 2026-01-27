@@ -110,46 +110,16 @@ Buddhist Classics AI Translation Series Volume 12: Collected Dharma Teachings fr
 https://zenodo.org/records/18378535
 
 
-Buddhist Classics AI Translation Series Volume 13: Buddhist Classics AI Translation Series English Translation Collection 1.0 Edition   English Translation Collection of Buddhist Classics AI Series Version 1.0
+Buddhist Classics AI Translation Series Volume 13: Buddhist Classics AI Translation Series English Translation Collection 1.5 Edition 
 
-https://zenodo.org/records/17502806
 
-https://tinyurl.com/bcaitshf13
+ English Translation Collection of Buddhist Classics AI Series Version 1.5
+and Not publicly part.7z
 
-Buddhist Classics AI Translation Series Volume 13: English Translation Collection of Buddhist Classics AI Series Version 1.0 part1.7z
+https://zenodo.org/records/18385161
 
-https://secure.eu.internxt.com/sh/file/bBNabOtOSQ6TIR2GztUnEA/VRpH_uoA
+https://huggingface.co/datasets/ospx1u/buddhist-classics-vol13-english/tree/main
 
-https://secure.eu.internxt.com/sh/file/
-bBNabOtOSQ6TIR2GztUnEA/VRpH_uoA
-
-https://archive.org/details/ai-english-translation-collection-of-buddhist-classics-ai-series-version-1.0-part-1.7z
-
-Buddhist Classics AI Translation Series Volume 13: English Translation Collection of Buddhist Classics AI Series Version 1.0 part2.7z
-
-https://secure.eu.internxt.com/sh/file/7zze0IbGTsmkkZtk77lSqg/IAFC5PhN
-
-https://secure.eu.internxt.com/sh/file/
-7zze0IbGTsmkkZtk77lSqg/IAFC5PhN
-
-https://archive.org/details/ai-english-translation-collection-of-buddhist-classics-ai-series-version-1.0-part-2.7z
-
-Buddhist Classics AI Translation Series Volume 13: English Translation Collection of Buddhist Classics AI Series Version 1.0 part3.7z
-
-https://secure.eu.internxt.com/sh/file/Fbef1T1cQ4W8GSHFHyUOzw/fvhUYnQe
-
-https://secure.eu.internxt.com/sh/file/
-Fbef1T1cQ4W8GSHFHyUOzw/fvhUYnQe
-
-https://archive.org/details/ai-english-translation-collection-of-buddhist-classics-ai-series-version-1.0-part-3.7z
-
-Knowledge Base Tool (20251029)
-https://secure.ue.internxt.com/sh/file/uUHNBhJrSF-iT43vZ6akWg/uoKJPDoA
-
-https://secure.ue.internxt.com/sh/file/
-uUHNBhJrSF-iT43vZ6akWg/uoKJPDoA
-
-https://archive.org/details/20251029.7z
 
 Buddhist Classics AI Translation Series Volume 14: Tibetan-English-Japanese-Korean Translations of the Pāli Canon 1.0 Edition
 
@@ -184,6 +154,7 @@ Buddhist Classics AI Translation Series
 Independent Research Collective
 
 https://github.com/Buddhist-Classics-AI-Translation-Series/Buddhist-translations
+
 
 
 
