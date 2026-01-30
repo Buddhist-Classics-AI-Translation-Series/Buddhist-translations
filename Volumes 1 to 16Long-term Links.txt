@@ -143,10 +143,10 @@ Buddhist Classics AI Translation Series Vol.15：Chinese Tripiṭaka in Tibetan,
 https://zenodo.org/records/18037184
 
 
-Buddhist Classics AI Translation Series Vol.16：Kangyur and Tengyur Exoteric Scriptures in Pali, Japanese, Korean , Version 1.0
+Buddhist Classics AI Translation Series Vol.16：Kangyur and Tengyur Exoteric Scriptures in Pali, Japanese, Korean , Version 1.2
 
 
-https://zenodo.org/records/18344675
+https://zenodo.org/records/18429701
 
 
 Buddhist Classics AI Translation Series
@@ -154,6 +154,7 @@ Buddhist Classics AI Translation Series
 Independent Research Collective
 
 https://github.com/Buddhist-Classics-AI-Translation-Series/Buddhist-translations
+
 
 
 
