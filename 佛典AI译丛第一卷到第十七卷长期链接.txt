@@ -1,4 +1,4 @@
-佛典AI译丛第一卷到第十六卷长期链接
+佛典AI译丛第一卷到第十七卷长期链接（自2026.02.08起休刊）
 
 佛典AI译丛（古籍多语种互译语料库数据集）更新通常刊登地址：
 https://tinyurl.com/bcaits
@@ -161,12 +161,30 @@ Buddhist Classics AI Translation Series Vol.16：Kangyur and Tengyur Exoteric Sc
 
 https://zenodo.org/records/18429701
 
+佛典AI译丛第十七卷 藏巴利日韩译汉文大藏经早期本土文献 1.0版
+
+Buddhist Classics AI Translation Series Vol.17：Early Indigenous Chinese Buddhist Literature Translated into Tibetan, Pāli, Japanese, and Korean Version 1.0
+
+https://zenodo.org/records/18515684
+
+临时网盘 2026.02.06起
+
+15天
+
+https://send.internxt.com/d/-9pnLH2dS1GBS4nQ_kXPpA/kCVJnQuv
+
+30天
+
+https://ufile.io/lg9zdqt5
+
 
 BCAITS 权实研读系统 Upaya-Truth Suite v1.0
 
 https://zenodo.org/records/18493776
 
 
+BCAITS 五轮研读系统 Dharma-Star Suite v2.0
 
+https://zenodo.org/records/18506916
 
 
