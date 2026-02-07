@@ -1,4 +1,4 @@
- Long-Term Links for the *Buddhist Classics AI Translation Series*, Volumes 1–16
+ Long-Term Links for the *Buddhist Classics AI Translation Series*, Volumes 1–17
 
 **The Buddhist Classics AI Translation Series** (Multilingual Ancient Texts Translation Corpus Dataset) is usually updated and published at the following addresses:  
 https://tinyurl.com/bcaits  
@@ -149,17 +149,36 @@ Buddhist Classics AI Translation Series Vol.16：Kangyur and Tengyur Exoteric Sc
 https://zenodo.org/records/18429701
 
 
-BCAITS 权实研读系统 Upaya-Truth Suite v1.0
+**BCAITS Vol. 17: Buddhist Classics AI Translation Series Vol.17：Early Indigenous Chinese Buddhist Literature Translated into Tibetan, Pāli, Japanese, and Korean Version 1.0**
+
+https://zenodo.org/records/18515684
+
+**Temporary File Hosting (Starting Feb 6, 2026)**
+
+**15 Days**
+
+https://send.internxt.com/d/-9pnLH2dS1GBS4nQ_kXPpA/kCVJnQuv
+
+**30 Days**
+
+https://ufile.io/lg9zdqt5
+
+
+**BCAITS Upaya-Truth Suite v1.0**
 
 https://zenodo.org/records/18493776
 
 
+**BCAITS Dharma-Star Suite v2.0**
+
+https://zenodo.org/records/18506916
 
 Buddhist Classics AI Translation Series
 
 Independent Research Collective
 
 https://github.com/Buddhist-Classics-AI-Translation-Series/Buddhist-translations
+
 
 
 
