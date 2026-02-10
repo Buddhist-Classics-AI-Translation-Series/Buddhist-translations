@@ -164,20 +164,16 @@ https://send.internxt.com/d/-9pnLH2dS1GBS4nQ_kXPpA/kCVJnQuv
 https://ufile.io/lg9zdqt5
 
 
-**BCAITS Upaya-Truth Suite v1.0**
+**BCAITS Dharma-Star Suite v4.0**
 
-https://zenodo.org/records/18493776
-
-
-**BCAITS Dharma-Star Suite v2.0**
-
-https://zenodo.org/records/18506916
+https://zenodo.org/records/18600883
 
 Buddhist Classics AI Translation Series
 
 Independent Research Collective
 
 https://github.com/Buddhist-Classics-AI-Translation-Series/Buddhist-translations
+
 
 
 
