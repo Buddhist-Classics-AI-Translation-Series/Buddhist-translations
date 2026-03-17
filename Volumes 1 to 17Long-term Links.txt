@@ -176,9 +176,9 @@ https://github.com/Buddhist-Classics-AI-Translation-Series/Buddhist-translations
 
 
 
-https://zenodo.org/uploads/19052955
-
 Buddhist Classics AI Translation Series:Patch Note for Vol.13 and Vol.16 – Alternative ZIP Packages for macOS Compatibility
+
+https://zenodo.org/records/19063289
 
 
 
